@@ -1,0 +1,15 @@
+C:\Users\HP\git\LeetCode\PalindromeNumbers\obj\Debug\net7.0\PalindromeNumbers.csproj.AssemblyReference.cache
+C:\Users\HP\git\LeetCode\PalindromeNumbers\obj\Debug\net7.0\PalindromeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\LeetCode\PalindromeNumbers\obj\Debug\net7.0\PalindromeNumbers.AssemblyInfoInputs.cache
+C:\Users\HP\git\LeetCode\PalindromeNumbers\obj\Debug\net7.0\PalindromeNumbers.AssemblyInfo.cs
+C:\Users\HP\git\LeetCode\PalindromeNumbers\obj\Debug\net7.0\PalindromeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\LeetCode\PalindromeNumbers\bin\Debug\net7.0\PalindromeNumbers.exe
+C:\Users\HP\git\LeetCode\PalindromeNumbers\bin\Debug\net7.0\PalindromeNumbers.deps.json
+C:\Users\HP\git\LeetCode\PalindromeNumbers\bin\Debug\net7.0\PalindromeNumbers.runtimeconfig.json
+C:\Users\HP\git\LeetCode\PalindromeNumbers\bin\Debug\net7.0\PalindromeNumbers.dll
+C:\Users\HP\git\LeetCode\PalindromeNumbers\bin\Debug\net7.0\PalindromeNumbers.pdb
+C:\Users\HP\git\LeetCode\PalindromeNumbers\obj\Debug\net7.0\PalindromeNumbers.dll
+C:\Users\HP\git\LeetCode\PalindromeNumbers\obj\Debug\net7.0\refint\PalindromeNumbers.dll
+C:\Users\HP\git\LeetCode\PalindromeNumbers\obj\Debug\net7.0\PalindromeNumbers.pdb
+C:\Users\HP\git\LeetCode\PalindromeNumbers\obj\Debug\net7.0\PalindromeNumbers.genruntimeconfig.cache
+C:\Users\HP\git\LeetCode\PalindromeNumbers\obj\Debug\net7.0\ref\PalindromeNumbers.dll
