@@ -1,0 +1,15 @@
+C:\Users\HP\git\LeetCode\TheKthFactorOfN\bin\Debug\net7.0\TheKthFactorOfN.exe
+C:\Users\HP\git\LeetCode\TheKthFactorOfN\bin\Debug\net7.0\TheKthFactorOfN.deps.json
+C:\Users\HP\git\LeetCode\TheKthFactorOfN\bin\Debug\net7.0\TheKthFactorOfN.runtimeconfig.json
+C:\Users\HP\git\LeetCode\TheKthFactorOfN\bin\Debug\net7.0\TheKthFactorOfN.dll
+C:\Users\HP\git\LeetCode\TheKthFactorOfN\bin\Debug\net7.0\TheKthFactorOfN.pdb
+C:\Users\HP\git\LeetCode\TheKthFactorOfN\obj\Debug\net7.0\TheKthFactorOfN.csproj.AssemblyReference.cache
+C:\Users\HP\git\LeetCode\TheKthFactorOfN\obj\Debug\net7.0\TheKthFactorOfN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\LeetCode\TheKthFactorOfN\obj\Debug\net7.0\TheKthFactorOfN.AssemblyInfoInputs.cache
+C:\Users\HP\git\LeetCode\TheKthFactorOfN\obj\Debug\net7.0\TheKthFactorOfN.AssemblyInfo.cs
+C:\Users\HP\git\LeetCode\TheKthFactorOfN\obj\Debug\net7.0\TheKthFactorOfN.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\LeetCode\TheKthFactorOfN\obj\Debug\net7.0\TheKthFactorOfN.dll
+C:\Users\HP\git\LeetCode\TheKthFactorOfN\obj\Debug\net7.0\refint\TheKthFactorOfN.dll
+C:\Users\HP\git\LeetCode\TheKthFactorOfN\obj\Debug\net7.0\TheKthFactorOfN.pdb
+C:\Users\HP\git\LeetCode\TheKthFactorOfN\obj\Debug\net7.0\TheKthFactorOfN.genruntimeconfig.cache
+C:\Users\HP\git\LeetCode\TheKthFactorOfN\obj\Debug\net7.0\ref\TheKthFactorOfN.dll
