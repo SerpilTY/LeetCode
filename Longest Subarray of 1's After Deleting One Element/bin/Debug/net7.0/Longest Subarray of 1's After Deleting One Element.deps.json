@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Longest Subarray of 1's After Deleting One Element/1.0.0": {
+        "runtime": {
+          "Longest Subarray of 1's After Deleting One Element.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Longest Subarray of 1's After Deleting One Element/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

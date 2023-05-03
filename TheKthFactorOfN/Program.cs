@@ -15,8 +15,6 @@
         else return -1;
 
 }
-
-
         public static void Main(string[] args)
         {
             int n = 6;
